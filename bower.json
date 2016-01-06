@@ -1,13 +1,12 @@
 {
-  "name": "zhufengshop",
+  "name": "JasonPT",
   "version": "1.0.0",
   "authors": [
-    "zhangrenyang-t510 <zhang_renyang@>"
+    "JasonPT"
   ],
-  "description": "node net shop zhufeng",
+  "description": "Online shopping mall",
   "keywords": [
     "node",
-    "net",
     "shop"
   ],
   "license": "MIT",

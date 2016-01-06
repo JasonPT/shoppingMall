@@ -1,23 +1,22 @@
 {
-  "name": "zhufengshop",
+  "name": "JasonPT",
   "version": "1.0.0",
-  "description": "这是一个珠峰网上商城的例子",
+  "description": "Online shopping mall",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "http://www.github.com/zhufengnodejs/zhufengshop"
+    "url": "https://github.com/JasonPT/shoppingMall"
   },
   "keywords": [
     "shop",
-    "zhufeng",
     "node",
     "express",
     "bower"
   ],
-  "author": "zhangrenyang",
+  "author": "JasonPT",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.13.3",
